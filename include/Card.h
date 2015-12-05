@@ -10,7 +10,7 @@ namespace Mighty
 	class AbstractPlayer;
 	class AbstractRole;
 
-	class Card final
+	class LIBMIGHTY_API Card final
 	{
 	public:
 		Card();

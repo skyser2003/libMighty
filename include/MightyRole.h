@@ -4,7 +4,7 @@
 
 namespace Mighty
 {
-	class MightyRole final : public CRTPRole<MightyRole>
+	class LIBMIGHTY_API MightyRole final : public CRTPRole<MightyRole>
 	{
 	};
 }

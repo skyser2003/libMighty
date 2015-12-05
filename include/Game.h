@@ -7,7 +7,7 @@ namespace Mighty
 	class Round;
 	class Rule;
 
-	class Game
+	class LIBMIGHTY_API Game
 	{
 	private:
 		typedef std::map<int, std::shared_ptr<AbstractPlayer>> Players;

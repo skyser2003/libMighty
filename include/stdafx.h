@@ -8,3 +8,6 @@
 #include <chrono>
 #include <deque>
 #include <algorithm>
+
+// Library headers
+#include "BuildMacro.h"

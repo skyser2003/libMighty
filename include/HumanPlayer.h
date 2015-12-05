@@ -4,7 +4,7 @@
 
 namespace Mighty
 {
-	class HumanPlayer : public AbstractPlayer
+	class LIBMIGHTY_API HumanPlayer : public AbstractPlayer
 	{
 	public:
 		virtual void PlayTurn() override;

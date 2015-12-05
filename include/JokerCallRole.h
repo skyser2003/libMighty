@@ -4,7 +4,7 @@
 
 namespace Mighty
 {
-	class JokerCallRole final : public CRTPRole<JokerCallRole>
+	class LIBMIGHTY_API JokerCallRole final : public CRTPRole<JokerCallRole>
 	{
 	public:
 		void SetIsActivated(bool isActivated);

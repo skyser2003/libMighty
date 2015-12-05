@@ -5,7 +5,7 @@ namespace Mighty
 	#include "enum_class_CardRole.h"
 	#include "enum_class_CardType.h"
 
-	class Rule
+	class LIBMIGHTY_API Rule
 	{
 	public:
 		Rule();

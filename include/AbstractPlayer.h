@@ -8,7 +8,7 @@ namespace Mighty
 	class Game;
 	class Card;
 
-	class AbstractPlayer
+	class LIBMIGHTY_API AbstractPlayer
 	{
 	private:
 		typedef std::vector<std::shared_ptr<Card>> CardList;

@@ -9,7 +9,7 @@ namespace Mighty
 	class Game;
 	class Card;
 
-	class Round final
+	class LIBMIGHTY_API Round final
 	{
 	private:
 		typedef std::vector<std::shared_ptr<Card>> CardList;

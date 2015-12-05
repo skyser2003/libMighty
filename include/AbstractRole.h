@@ -6,7 +6,7 @@ namespace Mighty
 {
 	class Card;
 
-	class AbstractRole
+	class LIBMIGHTY_API AbstractRole
 	{
 	protected:
 		AbstractRole();

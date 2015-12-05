@@ -6,7 +6,7 @@ namespace Mighty
 {
 	#include "enum_class_CardSuit.h"
 
-	class JokerRole final : public CRTPRole<JokerRole>
+	class LIBMIGHTY_API JokerRole final : public CRTPRole<JokerRole>
 	{
 	public:
 		JokerRole();
