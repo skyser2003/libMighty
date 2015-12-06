@@ -1,7 +1,7 @@
 #include "stdafx.h"
-#include "JokerRole.h"
+#include "libMighty_JokerRole.h"
 
-#include "CardSuit.h"
+#include "libMighty_CardSuit.h"
 
 namespace Mighty
 {

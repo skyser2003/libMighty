@@ -1,9 +1,9 @@
 #include "stdafx.h"
-#include "CardUtilFunc.h"
+#include "libMighty_CardUtilFunc.h"
 
-#include "CardType.h"
-#include "CardSuit.h"
-#include "CardRank.h"
+#include "libMighty_CardType.h"
+#include "libMighty_CardSuit.h"
+#include "libMighty_CardRank.h"
 
 namespace Mighty
 {

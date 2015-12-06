@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "JokerCallRole.h"
+#include "libMighty_JokerCallRole.h"
 
 namespace Mighty
 {

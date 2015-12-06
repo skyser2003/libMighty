@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "NormalRole.h"
+#include "libMighty_NormalRole.h"
 
 namespace Mighty
 {

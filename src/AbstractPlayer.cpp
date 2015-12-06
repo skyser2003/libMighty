@@ -1,7 +1,7 @@
 #include "stdafx.h"
-#include "AbstractPlayer.h"
+#include "libMighty_AbstractPlayer.h"
 
-#include "Card.h"
+#include "libMighty_Card.h"
 
 namespace Mighty
 {

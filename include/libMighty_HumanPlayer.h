@@ -1,6 +1,6 @@
 #pragma once
 
-#include "AbstractPlayer.h"
+#include "libMighty_AbstractPlayer.h"
 
 namespace Mighty
 {

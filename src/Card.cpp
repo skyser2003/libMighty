@@ -1,8 +1,8 @@
 #include "stdafx.h"
-#include "Card.h"
+#include "libMighty_Card.h"
 
-#include "AbstractRole.h"
-#include "CardUtilFunc.h"
+#include "libMighty_AbstractRole.h"
+#include "libMighty_CardUtilFunc.h"
 
 namespace Mighty
 {

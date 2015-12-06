@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "CardRank.h"
+#include "libMighty_CardRank.h"
 
 namespace Mighty
 {

@@ -10,4 +10,4 @@
 #include <algorithm>
 
 // Library headers
-#include "BuildMacro.h"
+#include "libMighty_BuildMacro.h"

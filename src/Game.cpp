@@ -1,16 +1,16 @@
 #include "stdafx.h"
-#include "Game.h"
+#include "libMighty_Game.h"
 
-#include "HumanPlayer.h"
-#include "CardType.h"
-#include "Card.h"
+#include "libMighty_HumanPlayer.h"
+#include "libMighty_CardType.h"
+#include "libMighty_Card.h"
 
-#include "JokerRole.h"
-#include "JokerCallRole.h"
-#include "MightyRole.h"
-#include "NormalRole.h"
-#include "Round.h"
-#include "Rule.h"
+#include "libMighty_JokerRole.h"
+#include "libMighty_JokerCallRole.h"
+#include "libMighty_MightyRole.h"
+#include "libMighty_NormalRole.h"
+#include "libMighty_Round.h"
+#include "libMighty_Rule.h"
 
 namespace Mighty
 {

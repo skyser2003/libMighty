@@ -1,6 +1,6 @@
 #pragma once
 
-#include "CardRole.h"
+#include "libMighty_CardRole.h"
 
 namespace Mighty
 {

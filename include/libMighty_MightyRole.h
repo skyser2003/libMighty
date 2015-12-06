@@ -1,6 +1,6 @@
 #pragma once
 
-#include "AbstractRole.h"
+#include "libMighty_AbstractRole.h"
 
 namespace Mighty
 {

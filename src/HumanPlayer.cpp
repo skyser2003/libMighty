@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "HumanPlayer.h"
+#include "libMighty_HumanPlayer.h"
 
 namespace Mighty
 {

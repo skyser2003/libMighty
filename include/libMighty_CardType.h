@@ -1,6 +1,6 @@
 #pragma once
 
-#include "EnumEnumerator.h"
+#include "libMighty_EnumEnumerator.h"
 
 namespace Mighty
 {

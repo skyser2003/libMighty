@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "Rule.h"
+#include "libMighty_Rule.h"
 
 namespace Mighty
 {
