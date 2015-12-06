@@ -9,7 +9,7 @@ namespace Mighty
 {
 	namespace Util
 	{
-		CardSuit GetSuit(CardType type)
+		LIBMIGHTY_API CardSuit GetSuit(CardType type)
 		{
 			switch (type)
 			{
@@ -95,7 +95,7 @@ namespace Mighty
 			}
 		}
 
-		CardRank GetRank(CardType type)
+		LIBMIGHTY_API CardRank GetRank(CardType type)
 		{
 			switch (type)
 			{
@@ -225,7 +225,7 @@ namespace Mighty
 			}
 		}
 
-		std::string GetCardResourceName(CardType type)
+		LIBMIGHTY_API std::string GetCardResourceName(CardType type)
 		{
 			switch (type)
 			{

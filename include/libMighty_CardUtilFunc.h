@@ -8,9 +8,9 @@ namespace Mighty
 
 	namespace Util
 	{
-		CardSuit GetSuit(CardType type);
-		CardRank GetRank(CardType type);
+		LIBMIGHTY_API CardSuit GetSuit(CardType type);
+		LIBMIGHTY_API CardRank GetRank(CardType type);
 
-		std::string GetCardResourceName(CardType type);
+		LIBMIGHTY_API std::string GetCardResourceName(CardType type);
 	}
 }
