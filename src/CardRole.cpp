@@ -4,25 +4,25 @@
 namespace Mighty
 {
 	template <>
-	CardRole GetRoleType<NormalRole>()
+	LIBMIGHTY_API CardRole GetRoleType<NormalRole>()
 	{
 		return CardRole::Normal;
 	}
 
 	template <>
-	CardRole GetRoleType<MightyRole>()
+	LIBMIGHTY_API CardRole GetRoleType<MightyRole>()
 	{
 		return CardRole::Mighty;
 	}
 
 	template <>
-	CardRole GetRoleType<JokerRole>()
+	LIBMIGHTY_API CardRole GetRoleType<JokerRole>()
 	{
 		return CardRole::Joker;
 	}
 
 	template <>
-	CardRole GetRoleType<JokerCallRole>()
+	LIBMIGHTY_API CardRole GetRoleType<JokerCallRole>()
 	{
 		return CardRole::JokerCall;
 	}

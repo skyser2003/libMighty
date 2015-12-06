@@ -16,7 +16,7 @@ namespace Mighty
 	};
 
 	template <class RoleClass>
-	CardRole GetRoleType();
+	LIBMIGHTY_API CardRole GetRoleType();
 
 	// Declaration only
 	template <CardRole type>
